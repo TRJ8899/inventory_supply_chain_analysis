@@ -63,9 +63,9 @@ It needs three inputs: sales history, supplier lead times, and stock levels. Any
 
 Three Power BI pages: which products matter, supplier reliability, and reorder points vs stockouts. The report is `dashboard/inventory_dashboard.pbix`, and the presentation is `inventory_analysis.pptx`.
 
-![Which products matter](dashboard/page1_products.png)
-![Supplier reliability](dashboard/page2_suppliers.png)
-![Reorder points vs stockouts](dashboard/page3_reorder.png)
+![Which products matter](<img width="655" height="367" alt="page1_products" src="https://github.com/user-attachments/assets/53265973-5722-436e-846c-9594ae472c59" />)
+![Supplier reliability](<img width="655" height="365" alt="page2_suppliers" src="https://github.com/user-attachments/assets/225f8ea7-0ee7-4437-86bf-c357d503d323" />)
+![Reorder points vs stockouts](<img width="658" height="364" alt="page3_reorder" src="https://github.com/user-attachments/assets/6201be9d-01ff-4470-8125-89c13ff2bc5a" />)
 
 ## Limitations
 
